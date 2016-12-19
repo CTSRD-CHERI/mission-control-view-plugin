@@ -25,7 +25,8 @@ th, td {
 
 .btn {
   border: 3px solid #2b3e50;
-  font-size: 14px;
+  font-size: 10px;
+  line-height: 1.2;
 }
 
 .btn-success {
@@ -55,4 +56,4 @@ th, td {
 
 .invert-text-color {
   color: black;
-}
+
